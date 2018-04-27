@@ -12,23 +12,23 @@
   "iOS" : [
     {
       "name" : "Crypto",
-      "hash" : "3ed5243fb098cf37b22ba203d4f8b5c58c3f16bba7261d16299cf8b94dbd7da4"
+      "hash" : "962285683a1ef6ce9984b754d400ee21b0f806c70cd87e5cd3e58f7d626c097a"
     },
     {
       "name" : "RileyLinkBLEKit",
-      "hash" : "76060aa5b24d392228a205419fa16071f25b038bdf824639c10c1233d2d6d5ce"
+      "hash" : "3f7f292c315d499cb125b66c7f2b22f5d57822283570bc3f399296d89635bc20"
     },
     {
       "name" : "NightscoutUploadKit",
-      "hash" : "5b3fef0981d79029e869cd8baabdedc3005ca49d6b5217e4f88a8f8babfe4a0a"
+      "hash" : "84d0f5c8977a21b7eed19c57502824963709e705a6031c5fb7ce55a2fa98519a"
     },
     {
       "name" : "RileyLinkKit",
-      "hash" : "fd9e14cb041a25b00cb8c8bd4cc790b731587a28658331e52efdb116327b3afd"
+      "hash" : "6751fe1e382a0cc590188794aed08bc570688813a25ed32a82da660c981f4e98"
     },
     {
       "name" : "MinimedKit",
-      "hash" : "31bd6963439b1b1213742e0065d064beeca8a5675967f69cc63d32af58758193"
+      "hash" : "a73b8a490da9a350d76e6c673b972f4f838fc45108f9ab5fa5845c2fcd0e375d"
     }
   ]
 }
