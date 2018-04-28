@@ -8,14 +8,14 @@
   "tvOS" : [
     {
       "name" : "SwiftCharts",
-      "hash" : "e346adddcb02a8be52579ac5281f0ff763fe0da29425e327e45b2168dddaaf36"
+      "hash" : "c581a9b04e6ea94b938a90beab944e6c373b3662d4cdb4c3a9596e7bada1912c"
     }
   ],
   "commitish" : "0.6.1",
   "iOS" : [
     {
       "name" : "SwiftCharts",
-      "hash" : "fac4f7ee9941d5d1a3d6b2af1f6219772b0c381f6de65a64d1700f48edab09fa"
+      "hash" : "3342a017025903e1fcdf10f1f9780118d752620d47f1585549617d7080556160"
     }
   ]
 }
